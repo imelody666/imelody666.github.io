@@ -24,7 +24,7 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('Shape|Shifter|Type|to start|#rectangle|#countdown 3||');
+      S.UI.simulate('happy|brithday|to|to start|#rectangle|#countdown 5||');
     }
 
     S.Drawing.loop(function () {

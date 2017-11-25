@@ -173,7 +173,7 @@ body,
 .ui-share,
 .ui-details {
   opacity: .9;
-  background: #fff;
+  background: rgb(190, 177, 189);
   z-index: 2;
 }
 
